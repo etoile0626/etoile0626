@@ -12,7 +12,7 @@
 
 ### 📊 GitHub Stats
 ![etoile0626's GitHub stats](https://github-readme-stats.vercel.app/api?username=etoile0626&show_icons=true&theme=gruvbox)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunje123&layout=compact&theme=tokyonight)
 ---
 
 ### 🏅 Baekjoon Online Judge
