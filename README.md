@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi there 👋, I'm 윤제</h1>
 
 - 📫 How to reach me: etoile0626@naver.com  
